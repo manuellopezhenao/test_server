@@ -2,9 +2,18 @@
 
 This project was generated with [Node](https://nodejs.org/es/) version 16
 
-## preparing
+## Preparing
 
 Run `npm install` to install necessary packages
+
+## Preparing Database
+
+Go to `config/config.ts` and edit the information to connect
+
+DATA_BASE_NAME: '<database-name>',
+USER: '<user-database>',
+PASSWORD: '<password-database>',
+DATA_BASE_URL: 'localhost',
 
 ## Development server
 
