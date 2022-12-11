@@ -8,7 +8,7 @@ Run `npm install` to install necessary packages
 
 ## Preparing Database 
 
-Script database [download]([https://nodejs.org/es/](https://drive.google.com/file/d/12tjiqUyxVHccxa21xqkfUkU82AOtsT9k/view?usp=share_link)) 
+Script database [download](https://drive.google.com/file/d/12tjiqUyxVHccxa21xqkfUkU82AOtsT9k/view?usp=share_link)
 
 Go to `config/config.ts` and edit the information to connect
 
