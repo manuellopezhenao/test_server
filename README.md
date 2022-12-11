@@ -10,10 +10,10 @@ Run `npm install` to install necessary packages
 
 Go to `config/config.ts` and edit the information to connect
 
-DATA_BASE_NAME: '<database-name>',
-USER: '<user-database>',
-PASSWORD: '<password-database>',
-DATA_BASE_URL: 'localhost',
+DATA_BASE_NAME: `<database-name>`,
+USER: `<user-database>`,
+PASSWORD: `<password-database>`,
+DATA_BASE_URL: `localhost`,
 
 ## Development server
 
