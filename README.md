@@ -6,7 +6,9 @@ This project was generated with [Node](https://nodejs.org/es/) version 16
 
 Run `npm install` to install necessary packages
 
-## Preparing Database
+## Preparing Database 
+
+Script database [download]([https://nodejs.org/es/](https://drive.google.com/file/d/12tjiqUyxVHccxa21xqkfUkU82AOtsT9k/view?usp=share_link)) 
 
 Go to `config/config.ts` and edit the information to connect
 
